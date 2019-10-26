@@ -35,7 +35,7 @@ namespace eprosima
         namespace rtps
         {
             /**
-             * @enum ChangeKind_t, different types of CacheChange_t.
+             * @brief Different types of CacheChange_t.
              * @ingroup COMMON_MODULE
              */
 #if defined(_WIN32)
